@@ -1,0 +1,82 @@
+﻿[
+    {
+        "AccountNumber": "Account1",
+        "TransactionAmount": 9419.93,
+        "TypeOfTransaction": "credit",
+        "TransactionAmountCurrency": "EUR",
+        "AccountCurrency": "EUR",
+        "TransactionDateTime": "2024-01-01T08:25:37"
+    },
+    {
+        "AccountNumber": "Account3",
+        "TransactionAmount": 3051.50,
+        "TypeOfTransaction": "debit",
+        "TransactionAmountCurrency": "EUR",
+        "AccountCurrency": "INR",
+        "TransactionDateTime": "2024-01-01T08:25:39"
+    },
+    {
+        "AccountNumber": "Account1",
+        "TransactionAmount": 2625.42,
+        "TypeOfTransaction": "credit",
+        "TransactionAmountCurrency": "USD",
+        "AccountCurrency": "EUR",
+        "TransactionDateTime": "2024-01-01T08:26:35"
+    },
+    {
+        "AccountNumber": "Account2",
+        "TransactionAmount": 3310.31,
+        "TypeOfTransaction": "debit",
+        "TransactionAmountCurrency": "EUR",
+        "AccountCurrency": "USD",
+        "TransactionDateTime": "2024-01-01T08:36:12"
+    },
+    {
+        "AccountNumber": "Account6",
+        "TransactionAmount": 5959.60,
+        "TypeOfTransaction": "debit",
+        "TransactionAmountCurrency": "EUR",
+        "AccountCurrency": "USD",
+        "TransactionDateTime": "2024-01-01T08:38:55"
+    },
+    {
+        "AccountNumber": "Account3",
+        "TransactionAmount": 895.05,
+        "TypeOfTransaction": "credit",
+        "TransactionAmountCurrency": "EUR",
+        "AccountCurrency": "INR",
+        "TransactionDateTime": "2024-01-01T08:45:21"
+    },
+    {
+        "AccountNumber": "Account3",
+        "TransactionAmount": 2324.90,
+        "TypeOfTransaction": "credit",
+        "TransactionAmountCurrency": "USD",
+        "AccountCurrency": "INR",
+        "TransactionDateTime": "2024-01-01T08:48:28"
+    },
+    {
+        "AccountNumber": "Account5",
+        "TransactionAmount": 3337.80,
+        "TypeOfTransaction": "credit",
+        "TransactionAmountCurrency": "EUR",
+        "AccountCurrency": "INR",
+        "TransactionDateTime": "2024-01-01T08:55:59"
+    },
+    {
+        "AccountNumber": "Account2",
+        "TransactionAmount": 9826.51,
+        "TypeOfTransaction": "credit",
+        "TransactionAmountCurrency": "EUR",
+        "AccountCurrency": "USD",
+        "TransactionDateTime": "2024-01-01T09:02:11"
+    },
+    {
+        "AccountNumber": "Account6",
+        "TransactionAmount": 1727.99,
+        "TypeOfTransaction": "credit",
+        "TransactionAmountCurrency": "EUR",
+        "AccountCurrency": "USD",
+        "TransactionDateTime": "2024-01-01T09:17:51"
+    }
+]

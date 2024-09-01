@@ -1,0 +1,45 @@
+Question:
+We have 2 datasets, please refer to the files ExchangeRates.json and Transactions.json. 
+
+ExchangeRates.json file contains the daily conversion rates  from euro to other currencies for the whole year. Description of columns below
+
+"BusinesDay": "2024-12-28T00:00:00", --Busines Day
+"EuroRate": 1.00, --As the base currency is Euro, Euro to Euro conversion is always 1
+"USDrate": 1.05, -- Euro to USD conversion rate i.e 1 euro = 1.05 usd
+"INRrate": 85.09 -- Euro to INR conversion rate i.e 1 euro = 85.09 INR
+
+Transactions.json file contains transactions happened on many accounts. Description of columns below
+
+"AccountNumber": "Account1", --AccountNumber involved in the transactions
+"TransactionAmount": 6339.52, --Transaction amount
+"TypeOfTransaction": "credit", --Type of trnasction could be either debit or credit
+"TransactionAmountCurrency": "USD", --Currency of the amount involved in the transaction
+"AccountCurrency": "EUR", --Currency of the account supported
+"TransactionDateTime": "2024-12-31T17:49:10" --Transaction date time
+
+Account can be in one currency and transacted amount can be in another currency, in such cases the transacted amount should be converted from transacted currency to account currency by following the exchange rates of the day.
+
+User Interface Design Considerations:
+1. When we run the application, a form should appear with a button to process the transactions
+2. Once the button is pressed, the computations described to calculate "TransactionAmountInAccountCurrency" and "BalanceAfterTheTransaction" should start.
+3. Progress should be displayed and updated after each entry process on the form as a count or as a progress bar.
+4. A DataGrid should be displayed for the transactions, initially it should be empty but after process of each transaction the transaction row should be appended to the grid continuously along with the computed columns "TransactionAmountInAccountCurrency" and "BalanceAfterTheTransaction".
+5. During the computation whole dataset, Transactions already processed appear on the datagrid can be double clicked, to open it as popup to see the data on the screen in more meaningfully (feel free to choose the layout of the popup form). 
+6. A cancel button should also be displayed to cancel the computation and the screen should show the items processed till that point.
+
+
+Result:
+1. We need to compute the "TransactionAmountInAccountCurrency" and "BalanceAfterTheTransaction" for each transaction entry.
+2. Write unit tests.
+3. Create a windows form application using MVVM pattern for the same with the user interface design considerations
+
+
+Assumptions:
+1. The first transaction of an account in chronological order can be considered as the first transaction on account.
+2. Incase of any questions, proceed with an assumption and leave a comment in the code.
+3. Consider this task a production application and do all the necessarythings a developer should do
+4. You can decide the form layout
+5. Code should be submitted as a zip through email once done
+
+
+

@@ -1,0 +1,7 @@
+the progress bar issue - done
+code optimization for 100000 records - nothing could be done about it
+logging and try catch blocks - need to look into
+installer with App.config file - done, generates TestTask.dll which is xml config file
+the UI , set the window size, make it not stretchable.- done
+Unit tests- need to look into
+possible bug - Euro to INR conversion
