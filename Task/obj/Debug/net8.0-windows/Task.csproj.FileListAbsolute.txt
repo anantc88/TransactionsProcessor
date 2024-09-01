@@ -1,0 +1,16 @@
+E:\Winforms_Project\Task\Task\bin\Debug\net8.0-windows\Task.exe
+E:\Winforms_Project\Task\Task\bin\Debug\net8.0-windows\Task.deps.json
+E:\Winforms_Project\Task\Task\bin\Debug\net8.0-windows\Task.runtimeconfig.json
+E:\Winforms_Project\Task\Task\bin\Debug\net8.0-windows\Task.dll
+E:\Winforms_Project\Task\Task\bin\Debug\net8.0-windows\Task.pdb
+E:\Winforms_Project\Task\Task\obj\Debug\net8.0-windows\Task.GeneratedMSBuildEditorConfig.editorconfig
+E:\Winforms_Project\Task\Task\obj\Debug\net8.0-windows\Task.AssemblyInfoInputs.cache
+E:\Winforms_Project\Task\Task\obj\Debug\net8.0-windows\Task.AssemblyInfo.cs
+E:\Winforms_Project\Task\Task\obj\Debug\net8.0-windows\Task.csproj.CoreCompileInputs.cache
+E:\Winforms_Project\Task\Task\obj\Debug\net8.0-windows\Task.dll
+E:\Winforms_Project\Task\Task\obj\Debug\net8.0-windows\refint\Task.dll
+E:\Winforms_Project\Task\Task\obj\Debug\net8.0-windows\Task.pdb
+E:\Winforms_Project\Task\Task\obj\Debug\net8.0-windows\Task.genruntimeconfig.cache
+E:\Winforms_Project\Task\Task\obj\Debug\net8.0-windows\ref\Task.dll
+E:\Winforms_Project\Task\Task\obj\Debug\net8.0-windows\Task.View.MainForm.resources
+E:\Winforms_Project\Task\Task\obj\Debug\net8.0-windows\Task.csproj.GenerateResource.cache
