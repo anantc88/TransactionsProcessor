@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestTask", "TestTask.csproj", "{D72DC4E8-6199-4578-88AF-F535863A31D0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TransactionsSetup", "..\TransactionsSetup\TransactionsSetup.vdproj", "{4C7F6E25-DA88-4CAC-9631-EFE7AAB82CE3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskNUnitTestProject", "..\TaskNUnitTestProject\TaskNUnitTestProject.csproj", "{083ECD00-9BC7-43CD-81AF-984B0280935D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D72DC4E8-6199-4578-88AF-F535863A31D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D72DC4E8-6199-4578-88AF-F535863A31D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D72DC4E8-6199-4578-88AF-F535863A31D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D72DC4E8-6199-4578-88AF-F535863A31D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C7F6E25-DA88-4CAC-9631-EFE7AAB82CE3}.Debug|Any CPU.ActiveCfg = Debug
+		{4C7F6E25-DA88-4CAC-9631-EFE7AAB82CE3}.Release|Any CPU.ActiveCfg = Release
+		{083ECD00-9BC7-43CD-81AF-984B0280935D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{083ECD00-9BC7-43CD-81AF-984B0280935D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{083ECD00-9BC7-43CD-81AF-984B0280935D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{083ECD00-9BC7-43CD-81AF-984B0280935D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6B0FF62-C227-4012-A7A5-66A8783B65E0}
+	EndGlobalSection
+EndGlobal
